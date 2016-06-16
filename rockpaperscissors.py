@@ -1,3 +1,6 @@
+#Created by aa248
+#Last modified on 6/16/2016
+
 import random
 
 def rockpaperscissors():
